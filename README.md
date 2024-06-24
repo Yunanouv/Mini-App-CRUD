@@ -1,5 +1,6 @@
 # Mini App - Cake Shop
 This repo shows the mini-application by creating a CRUD function using Python programming. 
+This project comes from the capstone project of module 1 Purwadhika Digital Technology School where we have to implement module 1 by making a simple crud application with additional features. 
 
 
 Imported modules: 
